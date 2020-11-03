@@ -6,7 +6,5 @@ from dictionary.views import dict_home, word, word_mean
 
 urlpatterns = [
     url('dict_home/$', dict_home),
-    url('word/$', word),
-    url('dict_home/$', dict_home),
     path('word_mean/<words>/', word_mean),
 ]
