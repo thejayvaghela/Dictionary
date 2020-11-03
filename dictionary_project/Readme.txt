@@ -1,0 +1,1 @@
+Copy the data.json file from its compressed folder to the root.
